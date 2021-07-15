@@ -17,7 +17,7 @@ When the budget object is printed it displays:
 
 Here is the output when run the main.py code:
 
-'''
+```
 *************Food*************
 initial deposit        1000.00
 groceries               -10.15
@@ -28,12 +28,12 @@ Total: 923.96
 Transfer from Food       50.00
                         -25.55
 Total: 24.45
-'''
+```
 Besides the `Category` class, there is a function (outside of the class) called `create_spend_chart` that takes a list of categories as an argument. It  returns a string that is a bar chart.
 
 Here is the output graph of the code:
 
-'''
+```
 Percentage spent by category
 100|
  90|
@@ -55,4 +55,4 @@ Percentage spent by category
         i
         n
         g
- '''
+```
